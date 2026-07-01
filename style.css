@@ -3,12 +3,12 @@ header{
     color: rgb(243, 248, 248);
     text-align: center;
     max-width: 800px;
-    margin: auto;
+    margin: 0 auto;
 }
 main{
     background-color: rgb(245, 241, 237);
     color: rgb(8, 40, 180);
     text-align: center;
     max-width: 800px;
-    margin: auto;
+    margin: 0 auto;
 }
