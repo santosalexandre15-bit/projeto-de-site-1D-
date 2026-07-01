@@ -4,5 +4,11 @@ header{
     text-align: center;
     max-width: 800px;
     margin: auto;
-    
+}
+main{
+    background-color: rgb(245, 241, 237);
+    color: rgb(8, 40, 180);
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
 }
